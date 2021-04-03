@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am becoming proficient in **Java** as well as **JavaScript** in order to make it *big* in this world.
